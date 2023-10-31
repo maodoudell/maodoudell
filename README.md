@@ -19,6 +19,8 @@
   <img src= "https://github.com/maodoudell/maodoudell/blob/main/iron-man.gif">
 </p>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
