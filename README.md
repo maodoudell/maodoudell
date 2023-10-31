@@ -90,8 +90,8 @@ hobbies: ["Gaming", "Cinema", "Camping", "Road Trip", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/thaiveng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaiveng&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiveng&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maodoudell&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maodoudell&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/thaiveng/thaiveng/blob/output/github-contribution-grid-snake.svg)
