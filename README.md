@@ -22,6 +22,8 @@
   <img src= "https://github.com/maodoudell/maodoudell/blob/main/iron-man.gif">
 </p>
 
+
+<!-- 
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -58,6 +60,8 @@ hobbies: ["Gaming", "Cinema", "Camping", "Road Trip", "Comedy"]
 ```
   
 ---  
+-->
+
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
