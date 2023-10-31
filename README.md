@@ -81,7 +81,7 @@ hobbies: ["Gaming", "Cinema", "Camping", "Road Trip", "Comedy"]
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maodoudell&theme=noctis_minimus&layout=compact" /> -->
 </a>
   
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
